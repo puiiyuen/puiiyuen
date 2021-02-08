@@ -9,11 +9,6 @@
 - 👨🏼‍🎓 I’m currently pursing MEng in Computer Networks
 - 🎵 Fun fact: I am Uaena and ReVeluv as well
 
-
-
-</br>
-</br>
-
 ---
 
 [![Patrick's github stats](https://github-readme-stats.vercel.app/api?username=puiiyuen&count_private=true&show_icons=true)](https://github.com/puiiyuen)
