@@ -10,7 +10,4 @@
 - 🎵 Fun fact: I am Uaena and ReVeluv as well
 
 ---
-
-[![Patrick's github stats](https://github-readme-stats.vercel.app/api?username=puiiyuen&count_private=true&show_icons=true)](https://github.com/puiiyuen)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=puiiyuen&layout=compact)](https://github.com/puiiyuen)
