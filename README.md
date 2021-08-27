@@ -1,6 +1,6 @@
 ### What's up!  I'm Patrick 👋
 
-[![Website](https://img.shields.io/website?label=blog&style=for-the-badge&logo=hexo&url=https%3A%2F%2Fpeiyuan.ch)](https://blog.peiyuan.ch)
+[![Website](https://img.shields.io/website?label=Home&style=for-the-badge&logo=hexo&url=https%3A%2F%2Fpeiyuan.ch)](https://peiyuan.ch)
 [![Website](https://img.shields.io/badge/LinkedIn-Patrick-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ppc97/)
 
 
