@@ -8,9 +8,9 @@
 
 
 [![Ranking](https://badge.peiyuan.ch/leetcode/puiiyuen/ranking)]()
-[![Easy](https://badge.peiyuan.ch/leetcode/puiiyuen/problem?difficulty=easy)](https://leetcode.com/puiiyuen)
-[![Medium](https://badge.peiyuan.ch/leetcode/puiiyuen/problem?difficulty=medium)](https://leetcode.com/puiiyuen)
-[![Hard](https://badge.peiyuan.ch/leetcode/puiiyuen/problem?difficulty=hard)](https://leetcode.com/puiiyuen)
+[![Easy](https://badge.peiyuan.ch/leetcode/puiiyuen/solved?difficulty=easy)](https://leetcode.com/puiiyuen)
+[![Medium](https://badge.peiyuan.ch/leetcode/puiiyuen/solved?difficulty=medium)](https://leetcode.com/puiiyuen)
+[![Hard](https://badge.peiyuan.ch/leetcode/puiiyuen/solved?difficulty=hard)](https://leetcode.com/puiiyuen)
 
 ```yml
 patrick: 
