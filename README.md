@@ -6,7 +6,7 @@
 [![Website](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ppc97/)
 
 **LeetCode:**  
-[![Ranking](https://badge.peiyuan.ch/leetcode/puiiyuen/ranking)]()
+[![Ranking](https://badge.peiyuan.ch/leetcode/puiiyuen/ranking)](https://leetcode.com/puiiyuen)
 [![Easy](https://badge.peiyuan.ch/leetcode/puiiyuen/solved?difficulty=easy)](https://leetcode.com/puiiyuen)
 [![Medium](https://badge.peiyuan.ch/leetcode/puiiyuen/solved?difficulty=medium)](https://leetcode.com/puiiyuen)
 [![Hard](https://badge.peiyuan.ch/leetcode/puiiyuen/solved?difficulty=hard)](https://leetcode.com/puiiyuen)
